@@ -1,0 +1,15 @@
+langchain_chroma
+streamlit
+langchain
+langchain-community
+langchain_core
+langchain-groq
+pylance
+python-dotenv
+bs4
+langchain-text-splitters
+langchain_huggingface
+pypdf
+arxiv
+wikipedia
+duckduckgo-search
